@@ -8,3 +8,4 @@ pop culture topics, including video games, comics, novels, music, movies, and TV
 - Bhuvnesh
 
 - new edit by alex
+- lucas is editing it on feb 4 at 4:05
