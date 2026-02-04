@@ -6,3 +6,5 @@ pop culture topics, including video games, comics, novels, music, movies, and TV
 - Lucas
 - Alex
 - Bhuvnesh
+
+- new edit by alex
