@@ -1,0 +1,72 @@
+/* html style */
+html {
+
+
+    background-color:cyan;
+
+}
+
+/* body style */
+body {
+
+    background-color: aliceblue;
+    width: 500px;
+    border: 2px solid black;;
+}
+/* header area style */
+
+header {
+    height: 140px;
+    background-color: lightgrey;
+    border-bottom: 2x solid black;
+
+}
+/* website logo style */
+
+header img {
+    width: 90px;
+    height: 90px;
+}
+
+/* heading style inside header area */
+
+header h1 {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 5px 5px 5px blueviolet;
+
+}
+/* navigation bar style */
+nav ul {
+    list-style-type: none;
+}
+nav ul li a {
+    text-decoration: none;
+}
+
+/* main area */
+
+main {
+    border: 1px solid black;
+
+}
+
+/* sidebar style */
+aside {
+    border: 1px solid black;
+
+}   
+/* footer style */
+
+footer {
+
+    background-color: rgb(255, 0, 0);
+    height: 140px;
+    border-top: 2px solid black;
+
+}
+
+footer p {
+    text-align: center;
+    
+    }
